@@ -1,4 +1,4 @@
-<h1 align="center">hi 👋, elijah</h1>
+<h1 align="center">hi 👋, i'm elijah</h1>
 
 <h4>🙂 any/all pronouns</h4>
 <h4>🧑🏽‍💻 fullstack coder</h4>
